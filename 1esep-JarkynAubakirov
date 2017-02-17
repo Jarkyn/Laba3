@@ -1,0 +1,11 @@
+<html>
+<title>Jarkyn</title>
+</html>
+<script>
+function a_max(a,b)
+{
+    var max = Math.max(a,b);
+    return max;
+}
+alert(a_max(4,10));
+</script>
